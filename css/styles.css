@@ -141,7 +141,7 @@ p {
 }
 
 .testimonial-section {
-  background-image: url("/images/review_bg.jpg");
+  background-image: url("images/review_bg.jpg");
   background-size: 98%;
 }
 
